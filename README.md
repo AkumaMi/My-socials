@@ -1,2 +1,2 @@
 # My-socials
-![alt text](https://camo.githubusercontent.com/39db39da6e1aac8ecc67f49a02e4a115318c211694e0a1e2b6eb775ba28c6e29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png)
