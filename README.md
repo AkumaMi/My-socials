@@ -8,4 +8,4 @@
 
 
 ## Support Me
-[<src="https://upload.wikimedia.org/wikipedia/ru/thumb/a/ad/DA_Logo_Color.svg/1200px-DA_Logo_Color.svg.png">](https://www.donationalerts.com/r/akumamit)
+[<img src="https://upload.wikimedia.org/wikipedia/ru/thumb/a/ad/DA_Logo_Color.svg/1200px-DA_Logo_Color.svg.png">](https://www.donationalerts.com/r/akumamit)
